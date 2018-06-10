@@ -1,6 +1,6 @@
 # Tribute Page
 
-![Tribute Page](https://github.com/erolaliyev/freeCodeCamp/blob/master/screenshots/tribute-page.png)
+![Tribute Page](https://github.com/erolaliyev/tribute-page/blob/master/images/tribute-page.png)
 
 * User stories:
   * My tribute page should have an element with a corresponding `id="main"`, which contains all other elements.
